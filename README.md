@@ -1,1 +1,0 @@
-# Staticinnerclass-demo
